@@ -16,4 +16,4 @@ gulp
 
 ---
 
-The presentation is based on [reveal-boilerplate](https://github.com/htanjo/reveal-boilerplate)
+The presentation is based on [reveal-boilerplate](https://github.com/htanjo/reveal-boilerplate).
